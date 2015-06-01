@@ -1,2 +1,2 @@
 # 99-bones
-99 Robots Bones WP Themes
+99 Robots Bones WP Theme
