@@ -1,0 +1,2482 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Z v0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2014-12-10 12:32:58+0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: CSL v1.x\n"
+"X-Poedit-Language: \n"
+"X-Poedit-Country: \n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: \n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes"
+
+#: comments.php:14
+#@ gabfire
+msgid "This post is password protected. Enter the password to view any comments."
+msgstr ""
+
+#: comments.php:31
+#, php-format
+#@ gabfire
+msgid "One Response to %2$s"
+msgid_plural "%1$s Responses to %2$s"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:38
+#: comments.php:57
+#@ gabfire
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: comments.php:39
+#: comments.php:58
+#@ gabfire
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: comments.php:75
+#@ gabfire
+msgid "You must be logged in to post a comment"
+msgstr ""
+
+#: comments.php:77
+#@ gabfire
+msgid "Login"
+msgstr ""
+
+#: framework/functions/breadcrumb.php:5
+#@ gabfire
+msgid "Home"
+msgstr ""
+
+#: footer.php:163
+#@ gabfire
+msgid "Semantic Personal Publishing Platform"
+msgstr ""
+
+#: footer.php:163
+#@ gabfire
+msgid "Powered by WordPress"
+msgstr ""
+
+#: framework/functions/misc-functions.php:95
+#@ gabfire
+msgid "Tag Archive"
+msgstr ""
+
+#: framework/functions/misc-functions.php:163
+#: index-bgslider.php:345
+#: index-bgslider.php:478
+#: index-bgslider.php:480
+#: index-bgslider.php:484
+#: index-bgslider.php:630
+#: index-callout.php:323
+#: index-callout.php:456
+#: index-callout.php:458
+#: index-callout.php:462
+#: index-callout.php:608
+#: index-vimeo.php:345
+#: index-vimeo.php:478
+#: index-vimeo.php:480
+#: index-vimeo.php:484
+#: index-vimeo.php:630
+#: index-youtube.php:345
+#: index-youtube.php:478
+#: index-youtube.php:480
+#: index-youtube.php:484
+#: index-youtube.php:630
+#: index.php:367
+#: index.php:500
+#: index.php:502
+#: index.php:506
+#: index.php:652
+#: loop-2col.php:17
+#: loop-3col.php:11
+#: loop-4col.php:12
+#: loop-default.php:8
+#: loop-portfolio.php:38
+#: loop-portfolio.php:61
+#: loop-team.php:16
+#: sidebar-portfolios.php:80
+#: sidebar-portfolios.php:83
+#: sidebar.php:38
+#: sidebar.php:41
+#: single-member.php:166
+#: single-member.php:169
+#: single-member.php:171
+#, php-format
+#@ gabfire
+msgid "Permalink to %s"
+msgstr ""
+
+#: framework/functions/breadcrumb.php:58
+#@ gabfire
+msgid "Gallery"
+msgstr ""
+
+#: framework/functions/breadcrumb.php:77
+#@ gabfire
+msgid "Search results for"
+msgstr ""
+
+#: framework/functions/breadcrumb.php:81
+#@ gabfire
+msgid "Posts tagged with"
+msgstr ""
+
+#: framework/functions/breadcrumb.php:86
+#@ gabfire
+msgid "Entries posted by"
+msgstr ""
+
+#: framework/functions/breadcrumb.php:89
+#@ gabfire
+msgid "404! Page not found"
+msgstr ""
+
+#: framework/functions/breadcrumb.php:94
+#@ gabfire
+msgid " (Page"
+msgstr ""
+
+#: framework/functions/misc-functions.php:168
+#@ gabfire
+msgid "No Comment"
+msgstr ""
+
+#: framework/functions/misc-functions.php:168
+#@ gabfire
+msgid "1 Comment"
+msgstr ""
+
+#: framework/functions/misc-functions.php:168
+#@ gabfire
+msgid "% Comments"
+msgstr ""
+
+#: framework/functions/misc-functions.php:163
+#@ gabfire
+msgid "Read More"
+msgstr ""
+
+#: functions.php:1179
+#: functions.php:1225
+#: functions.php:1337
+#: functions.php:1357
+#: loop-single-portfolios.php:59
+#: loop-single.php:105
+#@ gabfire
+msgid "Edit"
+msgstr ""
+
+#: framework/functions/shortcodes.php:35
+#@ gabfire
+msgid "No related posts found"
+msgstr ""
+
+#: functions.php:1334
+#, php-format
+#@ gabfire
+msgid "%s "
+msgstr ""
+
+#: functions.php:1342
+#@ gabfire
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: functions.php:1357
+#@ gabfire
+msgid "Pingback:"
+msgstr ""
+
+#: framework/functions/misc-functions.php:53
+#@ gabfire
+msgid "No categories"
+msgstr ""
+
+#: options.php:202
+#@ gabfire
+msgid "RSS"
+msgstr ""
+
+#: framework/functions/misc-functions.php:177
+#@ gabfire
+msgid "#"
+msgstr ""
+
+#: framework/admin/options-framework.php:313
+#@ gabfire
+msgid "Save Options"
+msgstr ""
+
+#: framework/admin/options-framework.php:314
+#@ gabfire
+msgid "Restore Defaults"
+msgstr ""
+
+#: framework/admin/options-framework.php:314
+#@ gabfire
+msgid "Click OK to reset. Any theme settings will be lost!"
+msgstr ""
+
+#: framework/admin/options-framework.php:347
+#@ gabfire
+msgid "Default options restored."
+msgstr ""
+
+#: framework/admin/options-framework.php:401
+#@ gabfire
+msgid "Options saved."
+msgstr ""
+
+#: framework/admin/options-media-uploader.php:54
+#: framework/admin/options-media-uploader.php:113
+#@ gabfire
+msgid "Upload"
+msgstr ""
+
+#: framework/admin/options-media-uploader.php:83
+#@ gabfire
+msgid "View File"
+msgstr ""
+
+#: tpl-loginform.php:25
+#@ gabfire
+msgid "Have an Account?"
+msgstr ""
+
+#: tpl-loginform.php:25
+#@ gabfire
+msgid "Login Using This Form"
+msgstr ""
+
+#: functions.php:1181
+#: functions.php:1227
+#@ gabfire
+msgid "View"
+msgstr ""
+
+#: functions.php:629
+#@ gabfire
+msgid "You can add any Youtube, Vimeo, Dailymotion or Screenr video url into this box"
+msgstr ""
+
+#: functions.php:1337
+#, php-format
+#@ gabfire
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: footer.php:104
+#@ gabfire
+msgid "Send Message"
+msgstr ""
+
+#: framework/admin/options-framework.php:228
+#@ gabfire
+msgid "Clear"
+msgstr ""
+
+#: header.php:40
+#@ gabfire
+msgid "Close"
+msgstr ""
+
+#: comments.php:103
+#@ gabfire
+msgid "Name"
+msgstr ""
+
+#: comments.php:107
+#@ gabfire
+msgid "Website"
+msgstr ""
+
+#: options.php:149
+#@ gabfire
+msgid "General Settings"
+msgstr ""
+
+#: comments.php:91
+#@ gabfire
+msgid "Leave a Reply"
+msgstr ""
+
+#: comments.php:92
+#, php-format
+#@ gabfire
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#: comments.php:93
+#@ gabfire
+msgid "Cancel Reply"
+msgstr ""
+
+#: comments.php:94
+#@ gabfire
+msgid "Post Comment"
+msgstr ""
+
+#: comments.php:96
+#@ gabfire
+msgid "Add your comment"
+msgstr ""
+
+#: comments.php:97
+#, php-format
+#@ gabfire
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
+msgstr ""
+
+#: comments.php:98
+#, php-format
+#@ gabfire
+msgid "Logged in as <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"Log out of this account\">Log out?</a>"
+msgstr ""
+
+#: comments.php:99
+#@ gabfire
+msgid "Your email address will not be published."
+msgstr ""
+
+#: comments.php:105
+#: footer.php:40
+#: functions.php:762
+#@ gabfire
+msgid "Email"
+msgstr ""
+
+#: footer.php:44
+#@ gabfire
+msgid "Telephone"
+msgstr ""
+
+#: footer.php:82
+#@ gabfire
+msgid "Your Name"
+msgstr ""
+
+#: footer.php:86
+#@ gabfire
+msgid "Your Email"
+msgstr ""
+
+#: footer.php:90
+#@ gabfire
+msgid "Your Phone"
+msgstr ""
+
+#: footer.php:96
+#@ gabfire
+msgid "Your Message"
+msgstr ""
+
+#: framework/admin/options-framework.php:182
+#: framework/admin/options-framework.php:183
+#: framework/admin/options-framework.php:451
+#@ gabfire
+msgid "Theme Options"
+msgstr ""
+
+#: framework/admin/options-framework.php:229
+#@ gabfire
+msgid "Default"
+msgstr ""
+
+#: framework/admin/options-framework.php:230
+#@ gabfire
+msgid "Select Color"
+msgstr ""
+
+#: framework/admin/options-media-uploader.php:51
+#@ gabfire
+msgid "No file chosen"
+msgstr ""
+
+#: framework/admin/options-media-uploader.php:56
+#: framework/admin/options-media-uploader.php:114
+#@ gabfire
+msgid "Remove"
+msgstr ""
+
+#: framework/admin/options-media-uploader.php:59
+#@ gabfire
+msgid "Upgrade your version of WordPress for full media support."
+msgstr ""
+
+#: framework/admin/options-sanitize.php:232
+#@ gabfire
+msgid "No Repeat"
+msgstr ""
+
+#: framework/admin/options-sanitize.php:233
+#@ gabfire
+msgid "Repeat Horizontally"
+msgstr ""
+
+#: framework/admin/options-sanitize.php:234
+#@ gabfire
+msgid "Repeat Vertically"
+msgstr ""
+
+#: framework/admin/options-sanitize.php:235
+#@ gabfire
+msgid "Repeat All"
+msgstr ""
+
+#: framework/admin/options-sanitize.php:248
+#@ gabfire
+msgid "Top Left"
+msgstr ""
+
+#: framework/admin/options-sanitize.php:249
+#@ gabfire
+msgid "Top Center"
+msgstr ""
+
+#: framework/admin/options-sanitize.php:250
+#@ gabfire
+msgid "Top Right"
+msgstr ""
+
+#: framework/admin/options-sanitize.php:251
+#@ gabfire
+msgid "Middle Left"
+msgstr ""
+
+#: framework/admin/options-sanitize.php:252
+#@ gabfire
+msgid "Middle Center"
+msgstr ""
+
+#: framework/admin/options-sanitize.php:253
+#@ gabfire
+msgid "Middle Right"
+msgstr ""
+
+#: framework/admin/options-sanitize.php:254
+#@ gabfire
+msgid "Bottom Left"
+msgstr ""
+
+#: framework/admin/options-sanitize.php:255
+#@ gabfire
+msgid "Bottom Center"
+msgstr ""
+
+#: framework/admin/options-sanitize.php:256
+#@ gabfire
+msgid "Bottom Right"
+msgstr ""
+
+#: framework/admin/options-sanitize.php:269
+#@ gabfire
+msgid "Scroll Normally"
+msgstr ""
+
+#: framework/admin/options-sanitize.php:270
+#@ gabfire
+msgid "Fixed in Place"
+msgstr ""
+
+#: framework/admin/options-sanitize.php:344
+#@ gabfire
+msgid "Normal"
+msgstr ""
+
+#: framework/admin/options-sanitize.php:345
+#@ gabfire
+msgid "Italic"
+msgstr ""
+
+#: framework/admin/options-sanitize.php:346
+#@ gabfire
+msgid "Bold"
+msgstr ""
+
+#: framework/admin/options-sanitize.php:347
+#@ gabfire
+msgid "Bold Italic"
+msgstr ""
+
+#: framework/functions/breadcrumb.php:20
+#@ gabfire
+msgid "Archives"
+msgstr ""
+
+#: framework/functions/misc-functions.php:83
+#, php-format
+#@ gabfire
+msgid "%s Archive"
+msgstr ""
+
+#: framework/functions/misc-functions.php:85
+#: framework/functions/misc-functions.php:87
+#: framework/functions/misc-functions.php:89
+#, php-format
+#@ gabfire
+msgid "Archive for %s"
+msgstr ""
+
+#: framework/functions/misc-functions.php:91
+#, php-format
+#@ gabfire
+msgid "Search Results for %s"
+msgstr ""
+
+#: framework/functions/misc-functions.php:93
+#@ gabfire
+msgid "Author Archive"
+msgstr ""
+
+#: framework/functions/misc-functions.php:102
+#, php-format
+#@ gabfire
+msgid "Page %s"
+msgstr ""
+
+#: functions.php:42
+#@ gabfire
+msgid "Navigation Menu"
+msgstr ""
+
+#: functions.php:539
+#@ gabfire
+msgid "Member Details"
+msgstr ""
+
+#: functions.php:540
+#: functions.php:541
+#: functions.php:542
+#@ gabfire
+msgid "Gabfire Custom Fields"
+msgstr ""
+
+#: functions.php:572
+#@ gabfire
+msgid "Post Entrance"
+msgstr ""
+
+#: functions.php:575
+#@ gabfire
+msgid "Enter a paragraph of text to display with a larger font size above entry."
+msgstr ""
+
+#: functions.php:583
+#: sidebar-portfolios.php:19
+#@ gabfire
+msgid "Project Details"
+msgstr ""
+
+#: functions.php:585
+#@ gabfire
+msgid "Enter the Project Details Below"
+msgstr ""
+
+#: functions.php:588
+#@ gabfire
+msgid "Enter a short introduction about project"
+msgstr ""
+
+#: functions.php:593
+#@ gabfire
+msgid "Client Name / Date"
+msgstr ""
+
+#: functions.php:599
+#@ gabfire
+msgid "Enter the Link to Access This Project Online (include http://)"
+msgstr ""
+
+#: functions.php:603
+#@ gabfire
+msgid "Enter the Technologies Used for this Project"
+msgstr ""
+
+#: functions.php:606
+#@ gabfire
+msgid "Technology #1 - #2"
+msgstr ""
+
+#: functions.php:612
+#@ gabfire
+msgid "Technology #3 - #4"
+msgstr ""
+
+#: functions.php:618
+#@ gabfire
+msgid "Technology #5 - #6"
+msgstr ""
+
+#: functions.php:627
+#@ gabfire
+msgid "Video URL"
+msgstr ""
+
+#: functions.php:635
+#@ gabfire
+msgid "Post Layout?"
+msgstr ""
+
+#: functions.php:637
+#@ gabfire
+msgid "Select a Post layout</br><strong>Note:</strong> Select Big Picture only if you have uploaded more than 1 photo"
+msgstr ""
+
+#: functions.php:643
+#: functions.php:1221
+#: functions.php:1222
+#: functions.php:1232
+#: options.php:1075
+#@ gabfire
+msgid "Portfolio"
+msgstr ""
+
+#: functions.php:645
+#@ gabfire
+msgid "Default Blog Post"
+msgstr ""
+
+#: functions.php:646
+#@ gabfire
+msgid "Big Picture"
+msgstr ""
+
+#: functions.php:647
+#@ gabfire
+msgid "Left Sidebar"
+msgstr ""
+
+#: functions.php:648
+#@ gabfire
+msgid "No Sidebar"
+msgstr ""
+
+#: functions.php:656
+#@ gabfire
+msgid "Disable Featured Image on this post?"
+msgstr ""
+
+#: functions.php:658
+#@ gabfire
+msgid "If you have enabled featured post on single post page option, the featured image shows at top of every post automatically. You may check this box to disable that image for certain posts."
+msgstr ""
+
+#: functions.php:664
+#@ gabfire
+msgid "Disable innerpage slider for this post"
+msgstr ""
+
+#: functions.php:666
+#@ gabfire
+msgid "If you have enabled innerpage slider sitewide, but specifically want to disable it for this post, check this box."
+msgstr ""
+
+#: functions.php:726
+#@ gabfire
+msgid "Leave it empty to disable a field"
+msgstr ""
+
+#: functions.php:730
+#@ gabfire
+msgid "Position"
+msgstr ""
+
+#: functions.php:733
+#@ gabfire
+msgid "Position of Team Member"
+msgstr ""
+
+#: functions.php:739
+#@ gabfire
+msgid "Social Links & Contact"
+msgstr ""
+
+#: functions.php:742
+#@ gabfire
+msgid "Link to Facebook Account"
+msgstr ""
+
+#: functions.php:747
+#@ gabfire
+msgid "Link to Twitter Account"
+msgstr ""
+
+#: functions.php:752
+#@ gabfire
+msgid "Link to LinkedIn Account"
+msgstr ""
+
+#: functions.php:757
+#@ gabfire
+msgid "Phone Number"
+msgstr ""
+
+#: functions.php:768
+#@ gabfire
+msgid "Education"
+msgstr ""
+
+#: functions.php:769
+#@ gabfire
+msgid "From Oldest to Newest"
+msgstr ""
+
+#: functions.php:772
+#@ gabfire
+msgid "Education #1 (Schooll Name and Study Period)"
+msgstr ""
+
+#: functions.php:778
+#@ gabfire
+msgid "Description for Education #1"
+msgstr ""
+
+#: functions.php:783
+#@ gabfire
+msgid "Education #2 (Schooll Name and Study Period)"
+msgstr ""
+
+#: functions.php:789
+#@ gabfire
+msgid "Description for Education #2"
+msgstr ""
+
+#: functions.php:794
+#@ gabfire
+msgid "Education #3 (Schooll Name and Study Period)"
+msgstr ""
+
+#: functions.php:800
+#@ gabfire
+msgid "Description for Education #3"
+msgstr ""
+
+#: functions.php:805
+#@ gabfire
+msgid "Education #4 (Schooll Name and Study Period)"
+msgstr ""
+
+#: functions.php:811
+#@ gabfire
+msgid "Description for Education #4"
+msgstr ""
+
+#: functions.php:816
+#@ gabfire
+msgid "Additional Info Title -  Below education Fields"
+msgstr ""
+
+#: functions.php:821
+#@ gabfire
+msgid "Additional Info Body -  Below education Fields"
+msgstr ""
+
+#: functions.php:827
+#@ gabfire
+msgid "Experience"
+msgstr ""
+
+#: functions.php:828
+#@ gabfire
+msgid "From Newest to Oldest"
+msgstr ""
+
+#: functions.php:831
+#@ gabfire
+msgid "Experience #1 (Company Name and Working Period)"
+msgstr ""
+
+#: functions.php:837
+#@ gabfire
+msgid "Description for Experience #1"
+msgstr ""
+
+#: functions.php:842
+#@ gabfire
+msgid "Experience #2 (Company Name and Working Period)"
+msgstr ""
+
+#: functions.php:848
+#@ gabfire
+msgid "Description for Experience #2"
+msgstr ""
+
+#: functions.php:853
+#@ gabfire
+msgid "Experience #3 (Company Name and Working Period)"
+msgstr ""
+
+#: functions.php:859
+#@ gabfire
+msgid "Description for Experience #3"
+msgstr ""
+
+#: functions.php:864
+#@ gabfire
+msgid "Experience #4 (Company Name and Working Period)"
+msgstr ""
+
+#: functions.php:870
+#@ gabfire
+msgid "Description for Experience #4"
+msgstr ""
+
+#: functions.php:876
+#@ gabfire
+msgid "Skills Name and Percentage"
+msgstr ""
+
+#: functions.php:877
+#@ gabfire
+msgid "Do not enter percent symbol into percentage field"
+msgstr ""
+
+#: functions.php:879
+#: options.php:705
+#@ gabfire
+msgid "Skill #1"
+msgstr ""
+
+#: functions.php:885
+#: options.php:732
+#@ gabfire
+msgid "Skill #2"
+msgstr ""
+
+#: functions.php:891
+#: options.php:759
+#@ gabfire
+msgid "Skill #3"
+msgstr ""
+
+#: functions.php:897
+#: options.php:786
+#@ gabfire
+msgid "Skill #4"
+msgstr ""
+
+#: functions.php:903
+#: options.php:813
+#@ gabfire
+msgid "Skill #5"
+msgstr ""
+
+#: functions.php:909
+#: options.php:840
+#@ gabfire
+msgid "Skill #6"
+msgstr ""
+
+#: functions.php:916
+#@ gabfire
+msgid "Portfolio Tag"
+msgstr ""
+
+#: functions.php:917
+#@ gabfire
+msgid "Enter ID number(s) of Portfolio Tags to Query Posts from"
+msgstr ""
+
+#: functions.php:919
+#@ gabfire
+msgid "Enter a Tag to Query Portfolio Entries From"
+msgstr ""
+
+#: functions.php:1175
+#: functions.php:1186
+#: options.php:1050
+#@ gabfire
+msgid "Team Members"
+msgstr ""
+
+#: functions.php:1176
+#@ gabfire
+msgid "Member"
+msgstr ""
+
+#: functions.php:1177
+#: functions.php:1178
+#: functions.php:1223
+#: functions.php:1224
+#@ gabfire
+msgid "Add New"
+msgstr ""
+
+#: functions.php:1180
+#: functions.php:1226
+#@ gabfire
+msgid "New"
+msgstr ""
+
+#: functions.php:1182
+#: functions.php:1228
+#@ gabfire
+msgid "Search"
+msgstr ""
+
+#: functions.php:1183
+#: functions.php:1229
+#@ gabfire
+msgid "Nothing found"
+msgstr ""
+
+#: functions.php:1184
+#: functions.php:1230
+#@ gabfire
+msgid "Nothing found in Trash"
+msgstr ""
+
+#: functions.php:1185
+#: functions.php:1231
+#@ gabfire
+msgid "Parent:"
+msgstr ""
+
+#: functions.php:1263
+#: functions.php:1273
+#@ default
+msgctxt "gabfire"
+msgid "Portfolio Categories"
+msgstr ""
+
+#: functions.php:1265
+#: functions.php:1288
+#@ default
+msgctxt "gabfire"
+msgid "Search"
+msgstr ""
+
+#: functions.php:1266
+#: functions.php:1290
+#@ default
+msgctxt "gabfire"
+msgid "All"
+msgstr ""
+
+#: functions.php:1267
+#@ default
+msgctxt "gabfire"
+msgid "Parent"
+msgstr ""
+
+#: functions.php:1268
+#@ default
+msgctxt "gabfire"
+msgid "Parent:"
+msgstr ""
+
+#: functions.php:1269
+#: functions.php:1293
+#@ default
+msgctxt "gabfire"
+msgid "Edit"
+msgstr ""
+
+#: functions.php:1270
+#: functions.php:1294
+#@ default
+msgctxt "gabfire"
+msgid "Update"
+msgstr ""
+
+#: functions.php:1271
+#: functions.php:1295
+#@ default
+msgctxt "gabfire"
+msgid "Add New"
+msgstr ""
+
+#: functions.php:1272
+#@ default
+msgctxt "gabfire"
+msgid "New Name"
+msgstr ""
+
+#: functions.php:1286
+#: functions.php:1300
+#@ default
+msgctxt "gabfire"
+msgid "Portfolio Tags"
+msgstr ""
+
+#: functions.php:1289
+#@ default
+msgctxt "gabfire"
+msgid "Popular"
+msgstr ""
+
+#: functions.php:1296
+#@ default
+msgctxt "gabfire"
+msgid "New"
+msgstr ""
+
+#: functions.php:1297
+#@ default
+msgctxt "gabfire"
+msgid "Separate with commas"
+msgstr ""
+
+#: functions.php:1298
+#@ default
+msgctxt "gabfire"
+msgid "Add or remove"
+msgstr ""
+
+#: functions.php:1299
+#@ default
+msgctxt "gabfire"
+msgid "Choose from the most used"
+msgstr ""
+
+#: functions.php:1383
+#@ gabfire
+msgid "Footer 1"
+msgstr ""
+
+#: functions.php:1383
+#@ gabfire
+msgid "Footer 1st column"
+msgstr ""
+
+#: functions.php:1384
+#@ gabfire
+msgid "Footer 2"
+msgstr ""
+
+#: functions.php:1384
+#@ gabfire
+msgid "Footer 2nd column"
+msgstr ""
+
+#: functions.php:1385
+#@ gabfire
+msgid "Footer 3"
+msgstr ""
+
+#: functions.php:1385
+#@ gabfire
+msgid "Footer 3rd column"
+msgstr ""
+
+#: functions.php:1386
+#@ gabfire
+msgid "Footer 4"
+msgstr ""
+
+#: functions.php:1386
+#@ gabfire
+msgid "Footer 4th column"
+msgstr ""
+
+#: header.php:41
+#@ gabfire
+msgid "Your message has been received. Thank you"
+msgstr ""
+
+#: options.php:352
+#@ gabfire
+msgid "Services"
+msgstr ""
+
+#: index-bgslider.php:345
+#: index-callout.php:323
+#: index-vimeo.php:345
+#: index-youtube.php:345
+#: index.php:367
+#@ gabfire
+msgid "Click here to See Full Profile"
+msgstr ""
+
+#: index-bgslider.php:421
+#: index-bgslider.php:462
+#: index-callout.php:399
+#: index-callout.php:440
+#: index-vimeo.php:421
+#: index-vimeo.php:462
+#: index-youtube.php:421
+#: index-youtube.php:462
+#: index.php:443
+#: index.php:484
+#@ gabfire
+msgid "All"
+msgstr ""
+
+#: index-bgslider.php:485
+#: index-callout.php:463
+#: index-vimeo.php:485
+#: index-youtube.php:485
+#: index.php:507
+#: single-member.php:172
+#@ gabfire
+msgid "read more"
+msgstr ""
+
+#: index-bgslider.php:626
+#: index-bgslider.php:640
+#: index-callout.php:604
+#: index-callout.php:618
+#: index-vimeo.php:626
+#: index-vimeo.php:640
+#: index-youtube.php:626
+#: index-youtube.php:640
+#: index.php:648
+#: index.php:662
+#: loop-portfolio.php:42
+#, php-format
+#@ gabfire
+msgid "By %1$s on %2$s."
+msgstr ""
+
+#: loop-2col.php:27
+#: loop-3col.php:20
+#: loop-4col.php:20
+#: loop-default.php:17
+#: loop-single.php:77
+#, php-format
+#@ gabfire
+msgid "By %1$s on %2$s"
+msgstr ""
+
+#: loop-single-portfolios.php:46
+#: loop-single.php:92
+#@ gabfire
+msgid "<strong>Pages:</strong>"
+msgstr ""
+
+#: loop-single-portfolios.php:51
+#: loop-single.php:97
+#@ gabfire
+msgid "Next page"
+msgstr ""
+
+#: loop-single-portfolios.php:52
+#: loop-single.php:98
+#@ gabfire
+msgid "Previous page"
+msgstr ""
+
+#: loop-team.php:53
+#, php-format
+#@ gabfire
+msgid "Permalink to CV of %s"
+msgstr ""
+
+#: loop-team.php:54
+#@ gabfire
+msgid "View CV"
+msgstr ""
+
+#: options.php:140
+#@ gabfire
+msgid "Disable"
+msgstr ""
+
+#: options.php:140
+#@ gabfire
+msgid "Tag-based"
+msgstr ""
+
+#: options.php:140
+#@ gabfire
+msgid "Site Wide"
+msgstr ""
+
+#: options.php:143
+#@ gabfire
+msgid "Text Based Logo"
+msgstr ""
+
+#: options.php:143
+#@ gabfire
+msgid "Image Based Logo"
+msgstr ""
+
+#: options.php:151
+#@ gabfire
+msgid "Logo Type"
+msgstr ""
+
+#: options.php:152
+#@ gabfire
+msgid "If text-based logo is selected, set sitename and tagline on WordPress settings page."
+msgstr ""
+
+#: options.php:158
+#@ gabfire
+msgid "Custom Logo"
+msgstr ""
+
+#: options.php:159
+#@ gabfire
+msgid "If image-based logo is selected, upload a logo for your theme, or specify the image address of your online logo. (http://yoursite.com/logo.png) [Max height: 50px]"
+msgstr ""
+
+#: options.php:163
+#@ gabfire
+msgid "Text Logo"
+msgstr ""
+
+#: options.php:164
+#@ gabfire
+msgid "If text-based logo is selected, enter text to display on first row."
+msgstr ""
+
+#: options.php:168
+#@ gabfire
+msgid "Text Logo Color"
+msgstr ""
+
+#: options.php:173
+#@ gabfire
+msgid "Text Logo Hover Color"
+msgstr ""
+
+#: options.php:178
+#@ gabfire
+msgid "Logo Padding Top"
+msgstr ""
+
+#: options.php:179
+#@ gabfire
+msgid "Set a padding value between logo and top line."
+msgstr ""
+
+#: options.php:185
+#@ gabfire
+msgid "Logo Padding Bottom"
+msgstr ""
+
+#: options.php:186
+#@ gabfire
+msgid "Set a padding value between logo and bottom line."
+msgstr ""
+
+#: options.php:191
+#@ gabfire
+msgid "Logo Padding Left"
+msgstr ""
+
+#: options.php:192
+#@ gabfire
+msgid "Set a padding value between logo and left line."
+msgstr ""
+
+#: options.php:197
+#@ gabfire
+msgid "Custom Favicon"
+msgstr ""
+
+#: options.php:198
+#@ gabfire
+msgid "Upload a 16px x 16px Png/Gif image that will represent your website's favicon."
+msgstr ""
+
+#: options.php:203
+#@ gabfire
+msgid "Link to third party feed handler. <br/> [http://www.url.com]"
+msgstr ""
+
+#: options.php:207
+#@ gabfire
+msgid "Tracking Code"
+msgstr ""
+
+#: options.php:208
+#@ gabfire
+msgid "Paste your Google Analytics (or other) tracking code here. This will be added into the footer template of your theme."
+msgstr ""
+
+#: options.php:212
+#@ gabfire
+msgid "Intro"
+msgstr ""
+
+#: options.php:214
+#@ gabfire
+msgid "Intro Type"
+msgstr ""
+
+#: options.php:215
+#@ gabfire
+msgid "Select and Intro type and Save Changes. Additional configuration options will appear below based on intro selection"
+msgstr ""
+
+#: options.php:221
+#@ gabfire
+msgid "Youtube"
+msgstr ""
+
+#: options.php:222
+#@ gabfire
+msgid "Vimeo"
+msgstr ""
+
+#: options.php:223
+#@ gabfire
+msgid "Callout"
+msgstr ""
+
+#: options.php:224
+#@ gabfire
+msgid "Background Slider"
+msgstr ""
+
+#: options.php:227
+#@ gabfire
+msgid "Intro Message"
+msgstr ""
+
+#: options.php:228
+#@ gabfire
+msgid "Welcome Message - First Line"
+msgstr ""
+
+#: options.php:233
+#@ gabfire
+msgid "Welcome Message - Second Line (wrap text with &lt;strong&gt;&lt;/strong&gt; to color it)"
+msgstr ""
+
+#: options.php:240
+#@ gabfire
+msgid "Image Slider as Background"
+msgstr ""
+
+#: options.php:241
+#@ gabfire
+msgid "Select number of images to upload"
+msgstr ""
+
+#: options.php:246
+#@ gabfire
+msgid "One"
+msgstr ""
+
+#: options.php:247
+#@ gabfire
+msgid "Two"
+msgstr ""
+
+#: options.php:248
+#@ gabfire
+msgid "Three"
+msgstr ""
+
+#: options.php:249
+#@ gabfire
+msgid "Four"
+msgstr ""
+
+#: options.php:250
+#@ gabfire
+msgid "Five"
+msgstr ""
+
+#: options.php:254
+#: options.php:284
+#: options.php:288
+#: options.php:292
+#: options.php:296
+#: options.php:309
+#: options.php:875
+#: options.php:1131
+#@ gabfire
+msgid "Upload a custom background image"
+msgstr ""
+
+#: options.php:260
+#@ gabfire
+msgid "Define a scroll speed ratio (parallax effect) to scroll background and elements with a different speed"
+msgstr ""
+
+#: options.php:267
+#@ gabfire
+msgid "Youtube Video"
+msgstr ""
+
+#: options.php:268
+#@ gabfire
+msgid "Enter Youtube Video below to display on top of background image - (N.B - Video will not be displayed on tablet and mobile devices)"
+msgstr ""
+
+#: options.php:275
+#@ gabfire
+msgid "Vimeo Video"
+msgstr ""
+
+#: options.php:276
+#@ gabfire
+msgid "If you want to stream a video from Vimeo instead of youtube, Enter a vimeo.com video link below"
+msgstr ""
+
+#: options.php:301
+#@ gabfire
+msgid "About Us"
+msgstr ""
+
+#: options.php:303
+#@ gabfire
+msgid "About Us - Enable / Disable"
+msgstr ""
+
+#: options.php:304
+#@ gabfire
+msgid "Disable About Section"
+msgstr ""
+
+#: options.php:314
+#: options.php:687
+#: options.php:916
+#: options.php:1058
+#: options.php:1083
+#: options.php:1310
+#: options.php:1375
+#@ gabfire
+msgid "Section Titles"
+msgstr ""
+
+#: options.php:315
+#: options.php:688
+#: options.php:917
+#: options.php:1059
+#: options.php:1084
+#: options.php:1311
+#: options.php:1376
+#@ gabfire
+msgid "First Title Line (wrap text with &lt;strong&gt;&lt;/strong&gt; to color it)"
+msgstr ""
+
+#: options.php:320
+#: options.php:693
+#: options.php:922
+#: options.php:1064
+#: options.php:1089
+#: options.php:1316
+#: options.php:1381
+#@ gabfire
+msgid "Second Title Line (wrap text with &lt;strong&gt;&lt;/strong&gt; to color it)"
+msgstr ""
+
+#: options.php:325
+#@ gabfire
+msgid "Paragraph Below Section Titles"
+msgstr ""
+
+#: options.php:326
+#@ gabfire
+msgid "Paragraph Title"
+msgstr ""
+
+#: options.php:331
+#@ gabfire
+msgid "Paragraph Text"
+msgstr ""
+
+#: options.php:336
+#: options.php:892
+#@ gabfire
+msgid "Button Text (leave this field empty to disable button)"
+msgstr ""
+
+#: options.php:342
+#: options.php:898
+#@ gabfire
+msgid "Button Link"
+msgstr ""
+
+#: options.php:347
+#@ gabfire
+msgid "Check this box if the button links to a youtube/vimeo/dailymotion video"
+msgstr ""
+
+#: options.php:354
+#@ gabfire
+msgid "Services - Enable / Disable"
+msgstr ""
+
+#: options.php:355
+#: options.php:682
+#: options.php:911
+#@ gabfire
+msgid "Disable Service Section"
+msgstr ""
+
+#: options.php:360
+#@ gabfire
+msgid "Service Items"
+msgstr ""
+
+#: options.php:361
+#@ gabfire
+msgid "Number of Service Items to Show (MAX: 12)"
+msgstr ""
+
+#: options.php:367
+#@ gabfire
+msgid "Service #1"
+msgstr ""
+
+#: options.php:368
+#: options.php:394
+#: options.php:420
+#: options.php:446
+#: options.php:472
+#: options.php:498
+#: options.php:524
+#: options.php:550
+#: options.php:576
+#: options.php:602
+#: options.php:628
+#: options.php:654
+#@ gabfire
+msgid "Service Title"
+msgstr ""
+
+#: options.php:373
+#: options.php:399
+#: options.php:425
+#: options.php:451
+#: options.php:477
+#: options.php:503
+#: options.php:529
+#: options.php:555
+#: options.php:581
+#: options.php:607
+#: options.php:633
+#: options.php:659
+#@ gabfire
+msgid "Service Text"
+msgstr ""
+
+#: options.php:378
+#: options.php:404
+#: options.php:430
+#: options.php:456
+#: options.php:482
+#: options.php:508
+#: options.php:534
+#: options.php:560
+#: options.php:586
+#: options.php:612
+#: options.php:638
+#: options.php:664
+#@ gabfire
+msgid "Service Icon - Select an icon name at http://fortawesome.github.io/Font-Awesome/icons/"
+msgstr ""
+
+#: options.php:383
+#: options.php:409
+#: options.php:435
+#: options.php:461
+#: options.php:487
+#: options.php:513
+#: options.php:539
+#: options.php:565
+#: options.php:591
+#: options.php:617
+#: options.php:643
+#: options.php:669
+#: options.php:717
+#: options.php:744
+#: options.php:771
+#: options.php:798
+#: options.php:825
+#: options.php:852
+#@ gabfire
+msgid "Change Color"
+msgstr ""
+
+#: options.php:388
+#: options.php:414
+#: options.php:440
+#: options.php:466
+#: options.php:492
+#: options.php:518
+#: options.php:544
+#: options.php:570
+#: options.php:596
+#: options.php:622
+#: options.php:648
+#: options.php:674
+#@ gabfire
+msgid "Select a color"
+msgstr ""
+
+#: options.php:393
+#@ gabfire
+msgid "Service #2"
+msgstr ""
+
+#: options.php:419
+#@ gabfire
+msgid "Service #3"
+msgstr ""
+
+#: options.php:445
+#@ gabfire
+msgid "Service #4"
+msgstr ""
+
+#: options.php:471
+#@ gabfire
+msgid "Service #5"
+msgstr ""
+
+#: options.php:497
+#@ gabfire
+msgid "Service #6"
+msgstr ""
+
+#: options.php:523
+#@ gabfire
+msgid "Service #7"
+msgstr ""
+
+#: options.php:549
+#@ gabfire
+msgid "Service #8"
+msgstr ""
+
+#: options.php:575
+#@ gabfire
+msgid "Service #9"
+msgstr ""
+
+#: options.php:601
+#@ gabfire
+msgid "Service #10"
+msgstr ""
+
+#: options.php:627
+#@ gabfire
+msgid "Service #11"
+msgstr ""
+
+#: options.php:653
+#@ gabfire
+msgid "Service #12"
+msgstr ""
+
+#: options.php:679
+#@ gabfire
+msgid "Skills"
+msgstr ""
+
+#: options.php:681
+#@ gabfire
+msgid "Skills - Enable / Disable"
+msgstr ""
+
+#: options.php:698
+#@ gabfire
+msgid "Skill Bars"
+msgstr ""
+
+#: options.php:699
+#@ gabfire
+msgid "Number of Skill Bars to Display (MAX: 6)"
+msgstr ""
+
+#: options.php:706
+#: options.php:733
+#: options.php:760
+#: options.php:787
+#: options.php:814
+#: options.php:841
+#@ gabfire
+msgid "Enter a Skill Name"
+msgstr ""
+
+#: options.php:711
+#: options.php:738
+#: options.php:765
+#: options.php:792
+#: options.php:819
+#: options.php:846
+#@ gabfire
+msgid "Skill Percentage"
+msgstr ""
+
+#: options.php:722
+#: options.php:749
+#: options.php:776
+#: options.php:803
+#: options.php:830
+#: options.php:857
+#@ gabfire
+msgid "Title Background Color"
+msgstr ""
+
+#: options.php:727
+#: options.php:754
+#: options.php:781
+#: options.php:808
+#: options.php:835
+#: options.php:862
+#@ gabfire
+msgid "Progress Bar Color"
+msgstr ""
+
+#: options.php:867
+#@ gabfire
+msgid "Plain Text"
+msgstr ""
+
+#: options.php:869
+#@ gabfire
+msgid "Plain Text - Enable / Disable"
+msgstr ""
+
+#: options.php:870
+#@ gabfire
+msgid "Disable Plain Text Section"
+msgstr ""
+
+#: options.php:880
+#@ gabfire
+msgid "Large Text"
+msgstr ""
+
+#: options.php:881
+#@ gabfire
+msgid "Large text (use &lt;br /&gt; to break the sentence to second line)"
+msgstr ""
+
+#: options.php:886
+#: options.php:887
+#@ gabfire
+msgid "Small Text"
+msgstr ""
+
+#: options.php:903
+#@ gabfire
+msgid "Check this box if the button links to a youtube/vimeo/dailymotion vimeo"
+msgstr ""
+
+#: options.php:908
+#@ gabfire
+msgid "Pricing Table"
+msgstr ""
+
+#: options.php:910
+#@ gabfire
+msgid "Pricing Table - Enable / Disable"
+msgstr ""
+
+#: options.php:927
+#@ gabfire
+msgid "Popular Pack"
+msgstr ""
+
+#: options.php:928
+#@ gabfire
+msgid "Select the Column to be Highlighted as Popular"
+msgstr ""
+
+#: options.php:934
+#@ gabfire
+msgid "Pricing 1st Column"
+msgstr ""
+
+#: options.php:935
+#: options.php:964
+#: options.php:993
+#: options.php:1022
+#@ gabfire
+msgid "Enter a Name for the Package"
+msgstr ""
+
+#: options.php:941
+#: options.php:970
+#: options.php:999
+#: options.php:1028
+#@ gabfire
+msgid "Enter a Price for the Package"
+msgstr ""
+
+#: options.php:947
+#: options.php:976
+#: options.php:1005
+#: options.php:1034
+#@ gabfire
+msgid "Signup Button Text (Leave empty to disable button)"
+msgstr ""
+
+#: options.php:953
+#: options.php:982
+#: options.php:1011
+#: options.php:1040
+#@ gabfire
+msgid "Enter a Link to Redirect When Signup Button is Clicked"
+msgstr ""
+
+#: options.php:958
+#@ gabfire
+msgid "Features. Wrap each featured between &lt;li&gt; ... &lt;/li&gt; - To bold a text, use &lt;strong&gt;&lt;/strong&gt;"
+msgstr ""
+
+#: options.php:963
+#@ gabfire
+msgid "Pricing 2nd Column"
+msgstr ""
+
+#: options.php:987
+#: options.php:1016
+#: options.php:1045
+#@ gabfire
+msgid "Wrap each featured between &lt;li&gt; ... &lt;/li&gt; - To bold a text, use &lt;strong&gt;&lt;/strong&gt;"
+msgstr ""
+
+#: options.php:992
+#@ gabfire
+msgid "Pricing 3rd Column"
+msgstr ""
+
+#: options.php:1021
+#@ gabfire
+msgid "Pricing 4th Column"
+msgstr ""
+
+#: options.php:1052
+#@ gabfire
+msgid "Team Members - Enable / Disable"
+msgstr ""
+
+#: options.php:1053
+#@ gabfire
+msgid "Disable Team Members Section"
+msgstr ""
+
+#: options.php:1069
+#@ gabfire
+msgid "Number of Team Members to Show on Front Page"
+msgstr ""
+
+#: options.php:1077
+#@ gabfire
+msgid "Portfolio - Enable / Disable"
+msgstr ""
+
+#: options.php:1078
+#@ gabfire
+msgid "Disable Portfolio Section"
+msgstr ""
+
+#: options.php:1094
+#@ gabfire
+msgid "Number of Portfolio Items to Show on Front Page"
+msgstr ""
+
+#: options.php:1100
+#@ gabfire
+msgid "ID Number of Category ID's to display"
+msgstr ""
+
+#: options.php:1105
+#@ gabfire
+msgid "Portfolio Sidebar Widget - Enable / Disable"
+msgstr ""
+
+#: options.php:1106
+#@ gabfire
+msgid "Check to Disable Portfolio  Widget on Innerpage Sidebars"
+msgstr ""
+
+#: options.php:1111
+#@ gabfire
+msgid "Title to Display Above Portfolio Posts"
+msgstr ""
+
+#: options.php:1116
+#@ gabfire
+msgid "Testimonials"
+msgstr ""
+
+#: options.php:1118
+#@ gabfire
+msgid "Testimonials - Enable / Disable"
+msgstr ""
+
+#: options.php:1119
+#@ gabfire
+msgid "Disable Testimonials Section"
+msgstr ""
+
+#: options.php:1124
+#@ gabfire
+msgid "Section Title"
+msgstr ""
+
+#: options.php:1125
+#@ gabfire
+msgid "Title Line (wrap text with &lt;strong&gt;&lt;/strong&gt; to color it)"
+msgstr ""
+
+#: options.php:1130
+#@ gabfire
+msgid "Background"
+msgstr ""
+
+#: options.php:1136
+#@ gabfire
+msgid "Number of Testimonials to Show (We Suggest Max 4)"
+msgstr ""
+
+#: options.php:1142
+#@ gabfire
+msgid "Testimonial #1"
+msgstr ""
+
+#: options.php:1143
+#: options.php:1159
+#: options.php:1175
+#: options.php:1191
+#: options.php:1207
+#: options.php:1223
+#: options.php:1239
+#: options.php:1255
+#: options.php:1271
+#: options.php:1287
+#@ gabfire
+msgid "Enter Testimonial Text"
+msgstr ""
+
+#: options.php:1148
+#: options.php:1164
+#: options.php:1180
+#: options.php:1196
+#: options.php:1212
+#: options.php:1228
+#: options.php:1244
+#: options.php:1260
+#: options.php:1276
+#: options.php:1292
+#@ gabfire
+msgid "Testimonial By"
+msgstr ""
+
+#: options.php:1153
+#: options.php:1169
+#: options.php:1185
+#: options.php:1201
+#: options.php:1217
+#: options.php:1233
+#: options.php:1249
+#: options.php:1265
+#: options.php:1281
+#: options.php:1297
+#@ gabfire
+msgid "Image of Testimonial Owner"
+msgstr ""
+
+#: options.php:1158
+#@ gabfire
+msgid "Testimonial #2"
+msgstr ""
+
+#: options.php:1174
+#@ gabfire
+msgid "Testimonial #3"
+msgstr ""
+
+#: options.php:1190
+#@ gabfire
+msgid "Testimonial #4"
+msgstr ""
+
+#: options.php:1206
+#@ gabfire
+msgid "Testimonial #5"
+msgstr ""
+
+#: options.php:1222
+#@ gabfire
+msgid "Testimonial #6"
+msgstr ""
+
+#: options.php:1238
+#@ gabfire
+msgid "Testimonial #7"
+msgstr ""
+
+#: options.php:1254
+#@ gabfire
+msgid "Testimonial #8"
+msgstr ""
+
+#: options.php:1270
+#@ gabfire
+msgid "Testimonial #9"
+msgstr ""
+
+#: options.php:1286
+#@ gabfire
+msgid "Testimonial #10"
+msgstr ""
+
+#: options.php:1302
+#@ gabfire
+msgid "Timeline"
+msgstr ""
+
+#: options.php:1304
+#@ gabfire
+msgid "Timeline - Enable / Disable"
+msgstr ""
+
+#: options.php:1305
+#@ gabfire
+msgid "Disable Timeline Section"
+msgstr ""
+
+#: options.php:1321
+#@ gabfire
+msgid "Blog Entries"
+msgstr ""
+
+#: options.php:1322
+#@ gabfire
+msgid "Select a base query type to determine how this content area is populated"
+msgstr ""
+
+#: options.php:1331
+#@ gabfire
+msgid "If base query type is Category or Tag-based, please identify the category or tag. </br>If base query type is Custom Field, posts which are marked as featured (checkbox labeled as <strong>Is Featured</strong> is enabled on <strong>Add/Edit Post</strong> screen) will be displayed)."
+msgstr ""
+
+#: options.php:1334
+#@ gabfire
+msgid "If category based: Select a category for entries."
+msgstr ""
+
+#: options.php:1339
+#@ gabfire
+msgid "If tag based: Select a tag for entries."
+msgstr ""
+
+#: options.php:1343
+#@ gabfire
+msgid "Number of Entries to display"
+msgstr ""
+
+#: options.php:1350
+#: options.php:1356
+#@ gabfire
+msgid "Button Below Blog Posts"
+msgstr ""
+
+#: options.php:1351
+#@ gabfire
+msgid "Enter a Link for Button."
+msgstr ""
+
+#: options.php:1362
+#@ gabfire
+msgid "Text to Display on Button"
+msgstr ""
+
+#: options.php:1367
+#@ gabfire
+msgid "Footer Contact"
+msgstr ""
+
+#: options.php:1369
+#@ gabfire
+msgid "Contact - Enable / Disable"
+msgstr ""
+
+#: options.php:1370
+#@ gabfire
+msgid "Disable Contact Section"
+msgstr ""
+
+#: options.php:1386
+#@ gabfire
+msgid "Contact Details"
+msgstr ""
+
+#: options.php:1387
+#@ gabfire
+msgid "Company Name"
+msgstr ""
+
+#: options.php:1392
+#@ gabfire
+msgid "Streeet address"
+msgstr ""
+
+#: options.php:1397
+#@ gabfire
+msgid "City & State"
+msgstr ""
+
+#: options.php:1402
+#@ gabfire
+msgid "Post Code"
+msgstr ""
+
+#: options.php:1407
+#@ gabfire
+msgid "Country"
+msgstr ""
+
+#: options.php:1412
+#@ gabfire
+msgid "Email - Contact form emails are also will be sent to this address"
+msgstr ""
+
+#: options.php:1417
+#@ gabfire
+msgid "Phone"
+msgstr ""
+
+#: options.php:1422
+#@ gabfire
+msgid "Facebook"
+msgstr ""
+
+#: options.php:1427
+#@ gabfire
+msgid "Twitter"
+msgstr ""
+
+#: options.php:1432
+#@ gabfire
+msgid "Google+"
+msgstr ""
+
+#: options.php:1437
+#@ gabfire
+msgid "LinkedIn"
+msgstr ""
+
+#: options.php:1442
+#@ gabfire
+msgid "Miscellaneous"
+msgstr ""
+
+#: options.php:1496
+#@ gabfire
+msgid "Featured Image Post Display"
+msgstr ""
+
+#: options.php:1497
+#@ gabfire
+msgid "Auto resize and display featured image on single post - above entry."
+msgstr ""
+
+#: options.php:1502
+#@ gabfire
+msgid "2 column category template"
+msgstr ""
+
+#: options.php:1503
+#: options.php:1509
+#@ gabfire
+msgid "ID number of cat(s) to use 2 cols category template Separate with comma if more than 1 category is entered. (ex: 1,5,99)"
+msgstr ""
+
+#: options.php:1508
+#@ gabfire
+msgid "2 column no sidebar category template"
+msgstr ""
+
+#: options.php:1514
+#@ gabfire
+msgid "3 column no sidebar category template"
+msgstr ""
+
+#: options.php:1515
+#@ gabfire
+msgid "ID number of cat(s) to use 3 cols category template. Separate with comma if more than 1 category is entered. (ex: 1,5,99)"
+msgstr ""
+
+#: options.php:1520
+#@ gabfire
+msgid "4 column no sidebar category template"
+msgstr ""
+
+#: options.php:1521
+#: options.php:1527
+#@ gabfire
+msgid "ID number of cat(s) to use 4 cols category template. Separate with comma if more than 1 category is entered. (ex: 1,5,99)"
+msgstr ""
+
+#: options.php:1526
+#@ gabfire
+msgid "Portfolio Style Archive (With Slider)"
+msgstr ""
+
+#: options.php:1532
+#@ gabfire
+msgid "Inner-Page Slider"
+msgstr ""
+
+#: options.php:1533
+#@ gabfire
+msgid "Automatically create slideshow of uploaded photos in post entries to be displayed below post title. [Note: Select options include displaying slider site-wide, tag-based, or to disable completely]."
+msgstr ""
+
+#: options.php:1540
+#@ gabfire
+msgid "If tag-based option is selected, display posts assigned this tag to be shown in inner-page slider. <br/> [Note: Posts with multiple image attachments and tagged with this key will display within slider]."
+msgstr ""
+
+#: options.php:1546
+#@ gabfire
+msgid "Shortcodes"
+msgstr ""
+
+#: options.php:1547
+#@ gabfire
+msgid "Enable shortcodes functionality"
+msgstr ""
+
+#: options.php:1552
+#@ gabfire
+msgid "Widget Map"
+msgstr ""
+
+#: options.php:1553
+#@ gabfire
+msgid "Display the location of widgets on front page. After reviewing widget locations be sure to disable this option."
+msgstr ""
+
+#: options.php:1560
+#@ gabfire
+msgid "Custom CSS"
+msgstr ""
+
+#: options.php:1561
+#@ gabfire
+msgid "Quickly add some CSS to your theme by adding it to this block."
+msgstr ""
+
+#: sidebar-portfolios.php:21
+#@ gabfire
+msgid "Client:"
+msgstr ""
+
+#: sidebar-portfolios.php:22
+#@ gabfire
+msgid "Date:"
+msgstr ""
+
+#: sidebar-portfolios.php:23
+#@ gabfire
+msgid "Link:"
+msgstr ""
+
+#: sidebar-portfolios.php:32
+#@ gabfire
+msgid "Technologies"
+msgstr ""
+
+#: single-member.php:59
+#@ gabfire
+msgid "Friend on Facebook"
+msgstr ""
+
+#: single-member.php:65
+#@ gabfire
+msgid "Follow on Twitter"
+msgstr ""
+
+#: single-member.php:71
+#@ gabfire
+msgid "Connect on LinkedIn"
+msgstr ""
+
+#: single-member.php:80
+#@ gabfire
+msgid "EDUCATION"
+msgstr ""
+
+#: single-member.php:101
+#@ gabfire
+msgid "EXPERIENCES"
+msgstr ""
+
+#: single-member.php:116
+#@ gabfire
+msgid "SKILLS"
+msgstr ""
+
+#: single-member.php:131
+#@ gabfire
+msgid "RECENT PROJECTS"
+msgstr ""
+
+#: single-member.php:181
+#@ gabfire
+msgid "ALL TEAM"
+msgstr ""
+
+#: functions.php:1264
+#@ default
+msgctxt "gabfire"
+msgid "Portfolio Category"
+msgstr ""
+
+#: functions.php:1287
+#@ default
+msgctxt "gabfire"
+msgid "Portfolio Tag"
+msgstr ""
+
+#: options.php:1565
+#@ gabfire
+msgid "Change Primary Color"
+msgstr ""
+
+#: options.php:1566
+#: options.php:1577
+#: options.php:1588
+#@ gabfire
+msgid "Check this box and select a color below"
+msgstr ""
+
+#: options.php:1571
+#@ gabfire
+msgid "Primary Color"
+msgstr ""
+
+#: options.php:1576
+#@ gabfire
+msgid "Change Link Color"
+msgstr ""
+
+#: options.php:1582
+#@ gabfire
+msgid "Link Color"
+msgstr ""
+
+#: options.php:1587
+#@ gabfire
+msgid "Change Hovered Link Color"
+msgstr ""
+
+#: options.php:1593
+#@ gabfire
+msgid "Hovered Link Color"
+msgstr ""
+
+#: options.php:1598
+#@ gabfire
+msgid "Edit Navigation Colors"
+msgstr ""
+
+#: options.php:1599
+#@ gabfire
+msgid "This is a master trigger to enable main navigation color edit below"
+msgstr ""
+
+#: options.php:1604
+#@ gabfire
+msgid "Navigation bar background color"
+msgstr ""
+
+#: options.php:1609
+#@ gabfire
+msgid "Link color"
+msgstr ""
+
+#: options.php:1614
+#@ gabfire
+msgid "Current/Active Link color"
+msgstr ""
+
+#: options.php:1619
+#@ gabfire
+msgid "Hovered Link color"
+msgstr ""
+
+#: options.php:1624
+#@ gabfire
+msgid "Dropdown border color"
+msgstr ""
+
+#: options.php:1629
+#@ gabfire
+msgid "Dropdown background color"
+msgstr ""
+
+#: options.php:1634
+#@ gabfire
+msgid "Dropdown link color"
+msgstr ""
+
+#: options.php:1639
+#@ gabfire
+msgid "Dropdown hovered link color"
+msgstr ""
+
+#: options.php:220
+#@ gabfire
+msgid "Single Image"
+msgstr ""
+
+#: options.php:1444
+#@ gabfire
+msgid "Navigation"
+msgstr ""
+
+#: options.php:1445
+#@ gabfire
+msgid "You can edit Navigation Links below. If you do not want any of the links below to show up on navigation, simply leave the field empty. If you create a custom navigation and assign it to show on Primary nav zone, it will display right after HOME link"
+msgstr ""
+
+#: options.php:1448
+#@ gabfire
+msgid "Link #1 - Link to Home"
+msgstr ""
+
+#: options.php:1454
+#@ gabfire
+msgid "Link #2 - Link to About Section"
+msgstr ""
+
+#: options.php:1460
+#@ gabfire
+msgid "Link #3 - Link to Services Section"
+msgstr ""
+
+#: options.php:1466
+#@ gabfire
+msgid "Link #4 - Link to Pricing Section"
+msgstr ""
+
+#: options.php:1472
+#@ gabfire
+msgid "Link #5 - Link to Team Section"
+msgstr ""
+
+#: options.php:1478
+#@ gabfire
+msgid "Link #6 - Link to Portfolio Section"
+msgstr ""
+
+#: options.php:1484
+#@ gabfire
+msgid "Link #7 - Link to Blog Section"
+msgstr ""
+
+#: options.php:1490
+#@ gabfire
+msgid "Link #8 - Link to Contact Section"
+msgstr ""
+
